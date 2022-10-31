@@ -57,11 +57,11 @@
 
 .tasks__input_checkbox,
 .tasks__input_text,
-.button {
+.tasks__button {
   outline: none;
 }
 
-.button {
+.tasks__button {
   background: none;
   border: 0px;
   color: #888;
@@ -71,7 +71,7 @@
   cursor: pointer;
 }
 
-.button:hover {
+.tasks__button:hover {
   color: #3a3a3a;
 }
 
